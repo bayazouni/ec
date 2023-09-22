@@ -1,0 +1,397 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="fonts/icomoon/style.css">
+<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/tiny-slider.css">
+<link rel="stylesheet" href="css/aos.css">
+<link rel="stylesheet" href="css/style.css">
+<title>اکو &mdash; قالب وب سایت رایگان بوت استرپ 5 توسط Colorlib</title>
+</head>
+<body>
+<div class="site-mobile-menu site-navbar-target">
+<div class="site-mobile-menu-header">
+<div class="site-mobile-menu-close">
+<span class="icofont-close js-menu-toggle"></span>
+</div>
+</div>
+<div class="site-mobile-menu-body"></div>
+</div>
+<nav class="site-nav mt-3">
+<div class="container">
+<div class="site-navigation">
+<a href="index.html" class="logo m-0 mt-2 float-start"><img src="images/logo.png" alt="Image" class="img-fluid"></a>
+<ul class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end">
+<li><a href="index.html">خانه</a></li>
+<li class="has-children">
+<a href="#">کشویی</a>
+<ul class="dropdown">
+<li><a href="#">منوی یک</a></li>
+<li class="has-children">
+<a href="#">منوی دو</a>
+<ul class="dropdown">
+<li><a href="#">منوی فرعی یک</a></li>
+<li><a href="#">منوی فرعی دو</a></li>
+<li><a href="#">منوی فرعی سه</a></li>
+</ul>
+</li>
+<li><a href="#">منوی سه</a></li>
+</ul>
+</li>
+<li class="active"><a href="about.html">درباره</a></li>
+<li><a href="services.html">خدمات</a></li>
+<li><a href="faq.html">سوالات متداول</a></li>
+<li><a href="contact.html">با ما تماس بگیرید</a></li>
+<li class="cta-button"><a href="#">اکنون بارگیری کن</a></li>
+</ul>
+<a href="#" class="burger ml-auto float-right site-menu-toggle js-menu-toggle d-inline-block d-lg-none" data-toggle="collapse" data-target="#main-navbar">
+<span></span>
+</a>
+</div>
+</div>
+</nav>
+<div class="hero-section">
+<div class="container">
+<div class="row justify-content-between">
+<div class="col-lg-5">
+<span class="subheading mb-2" data-aos="fade-up">درباره</span>
+<h1 class="heading mb-3" data-aos="fade-up" data-aos-delay="100">درباره ما</h1>
+<p class="mb-5" data-aos="fade-up" data-aos-delay="200">🏢 شرکت اکو با ارائه راهکارهایی نوآورانه در طراحی و توسعهٔ سایت‌ها، به استفادهٔ موثر و بهینه از فناوری‌های روز و تطبیق آنها با نیازهای مشتریان می‌پردازد.
+
+🌐 با تمرکز بر بوت استرپ، شرکت اکو سایت‌ها را به طور خودکار به اندازه‌گیری مختلف صفحات نمایش می‌دهد و به راحتی در تمامی دستگاه‌ها و اندازه‌های صفحهٔ نمایش متناسب و قابل دسترس می‌سازد.
+
+✨ هدف اصلی شرکت اکو، ارائهٔ تجربهٔ کاربری بی‌نظیر و همچنین دستیابی به طراحی سایت‌های زیبا و پاسخگو است. شرکت اکو بر این باور است که یک سایت باید به هر بازدیدکنندهٔ آن احساس رضایت و راحتی را القا کند</p>
+<p data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-primary mr-2">چگونه کار می کنیم</a> <a href="#" class="btn btn-outline-primary">با ما تماس بگیرید</a></p>
+</div>
+<div class="col-lg-6">
+<div class="img-wrap" data-aos="fade-left">
+<img src="images/about_1.png" alt="Image" class="img-fluid">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section section-3 pt-0">
+<div class="container">
+<div class="row justify-content-between">
+<div class="col-lg-7" data-aos="fade-up">
+<img src="images/about_1.png" alt="Image" class="img-fluid">
+</div>
+<div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+<h3 class="subheading mb-2">درباره ما</h3>
+<h2 class="heading mb-4">چرا آژانس ما؟</h2>
+<p>اکو یکی از برترین آژانس‌های وب توسعه است که با استفاده از فناوری‌های روز دنیا، نرم‌افزارهای کارسو و بوت استرپ را برای ساخت وبسایت‌های شگفت‌انگیز به کار می‌بره. اعتماد و رضایت مشتریان در اولویت بالای اکو قرار داره. با تیمی حرفه‌ای و مجرب از طراحان و توسعه دهندگان وب، اکو به مشتریان خود بهترین خدمات را ارائه می‌دهد. برنامه ریزی دقیق، طراحی بصری جذاب و پیاده سازی هوشمندانه از جمله ویژگی‌هایی هستن که اکو از بقیه متمایز می‌کنه</p>
+<p class="mb-3">با استفاده از کارسو و بوت استرپ، اکو به شما کمک می‌کنه تا وبسایتی منحصربفرد و کمترین هزینه رو بدست بیارید. طراحی ریسپانسیو و برنامه نویسی پویای اکو، وبسایت شما رو به طور همزمان برای تمام اندازه‌ها و دستگاه‌ها بهینه می‌کنه. امنیت اطلاعات و حریم خصوصی همواره در اکو ارزشمند دانسته می‌شود. با استفاده از روش‌های امنیتی پیشرفته، اطمینان حاصل می‌شود که اطلاعات شخصی و سایر اطلاعات محرمانه مشتریان به درستی حفظ می‌شوند سه ویژگی اصلی اژانس اکو که ان :را از سایر آژانس های خدمات رسپانسیو سایت ها متمایز میکنه.</p>
+<ul class="list-check list-unstyled mb-5">
+<li>طراحی ریسپانسیو و برنامه نویسی پویای اکو</li>
+<li>امنیت اطلاعات و حریم خصوصی همواره در اکو</li>
+<li>طراحی بصری جذاب و پیاده سازی هوشمندانه</li>
+</ul>
+<p><a href="#" class="btn btn-primary">درباره ما</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="container">
+<div class="row mb-5">
+<div class="col-lg-8 text-center mx-auto" data-aos="fade-up">
+<span class="subheading mb-2">تیم</span>
+<h2 class="heading">تیم ما</h2>
+<p>تیم متخصص و پرتلاش شرکت اکو، با استفاده از تکنولوژی‌های روز و استانداردهای به‌روز در عرصهٔ بوت استرپ و رسپانسیو سایت، توانسته است در مدت کمی به عنوان یک بازیکن مهم در صنعت وب پیشرو شود در این قسمت به متخصصان اصلی تیم شرکت اکو اشاره میکنیم </p>
+</div>
+</div>
+<div class="row">
+<div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-dely="100">
+<div class="team">
+<img src="images/person_1.jpg" alt="Image" class="img-fluid mb-4">
+<div class="px-3">
+<h3 class="mb-0">جیمز واتسون</h3>
+<p>یکی از بنیانگذاران &amp; مدیر عامل</p>
+</div>
+</div>
+</div>
+<div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-dely="200">
+<div class="team">
+<img src="images/person_2.jpg" alt="Image" class="img-fluid mb-4">
+<div class="px-3">
+<h3 class="mb-0">کارل اندرسون</h3>
+<p>مهندس فنی اکو</p>
+</div>
+</div>
+</div>
+<div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-dely="300">
+<div class="team">
+<img src="images/person_3.jpg" alt="Image" class="img-fluid mb-4">
+<div class="px-3">
+<h3 class="mb-0">میشل الیسون</h3>
+<p>پشتیبانی اکو</p>
+</div>
+</div>
+</div>
+<div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-dely="400">
+<div class="team">
+<img src="images/person_3.jpg" alt="Image" class="img-fluid mb-4">
+<div class="px-3">
+<h3 class="mb-0">درو وود</h3>
+<p>کارمند سئو اکو</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="container">
+<div class="row mb-5">
+<div class="col-lg-8 mx-auto text-center" data-aos="fade-up">
+<span class="subheading mb-2">گواهینامه ها</span>
+<h1 class="heading mb-3">گواهینامه ها</h1>
+<p>در این قسمت میتوانید صحبت های کارشناسان  بین المللی را در مورد گواهینامه های  شرکت اکو بخوانید </p>
+</div>
+</div>
+<div class="testimonial-slider-wrap" data-aos="fade-up" data-aos-delay="100">
+<div id="testimonial-nav">
+<span class="prev" data-control="prev">
+<span class="icon-keyboard_arrow_left"></span>
+</span>
+<span class="next" data-control="next">
+<span class="icon-keyboard_arrow_right"></span>
+</span>
+</div>
+<div class="testimonial-slider" id="testimonial-slider">
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>✅ شرکت اکو از گواهینامه‌های بین‌المللی و معتبر نظیر گوگل، Microsoft و ... برخوردار است. این گواهینامه‌ها تأییدیهٔ تخصص و کیفیت بالای شرکت اکو در اجرای کارسیو و بوت استرپ سایت به معنای وجود توانایی و دانش فنی اصولی در این زمینه است</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_1.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>کارل اندرسون</h3>
+<span>مهندس فنی گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>🌟 دریافت گواهینامه‌های بین‌المللی مثل گوگل و Microsoft برای شرکت اکو نه تنها نشان‌دهندهٔ رعایت استانداردهای بین‌المللی است، بلکه به مشتریان اعتماد و اطمینان بیشتری در ارائه خدمات کارسیو و بوت استرپ سایت توسط این شرکت می‌دهد</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_2.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>درو وود</h3>
+<span>کارمند سئو گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>🚀 وجود این گواهینامه‌های ارزشمند، موجب می‌شود تا شرکت اکو در جهت رشد و سودآوری بیشتر، تلاش کند کیفیت خدمات خود را به خدمات بین‌المللی و معتبری مانند گوگل و Microsoft نزدیکتر کند و رضایت بیشتری را برای مشتریان خود فراهم سازد. 💪</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_3.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>میشل آلیسون</h3>
+<span>پشتیبانی گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>✅ شرکت اکو از گواهینامه‌های بین‌المللی و معتبر نظیر گوگل، Microsoft و ... برخوردار است. این گواهینامه‌ها تأییدیهٔ تخصص و کیفیت بالای شرکت اکو در اجرای کارسیو و بوت استرپ سایت به معنای وجود توانایی و دانش فنی اصولی در این زمینه است</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_1.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>کارل اندرسون</h3>
+<span>مهندس فنی گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>🌟 دریافت گواهینامه‌های بین‌المللی مثل گوگل و Microsoft برای شرکت اکو نه تنها نشان‌دهندهٔ رعایت استانداردهای بین‌المللی است، بلکه به مشتریان اعتماد و اطمینان بیشتری در ارائه خدمات کارسیو و بوت استرپ سایت توسط این شرکت می‌دهد</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_2.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>درو وود</h3>
+<span>کارمند سئو گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>🚀 وجود این گواهینامه‌های ارزشمند، موجب می‌شود تا شرکت اکو در جهت رشد و سودآوری بیشتر، تلاش کند کیفیت خدمات خود را به خدمات بین‌المللی و معتبری مانند گوگل و Microsoft نزدیکتر کند و رضایت بیشتری را برای مشتریان خود فراهم سازد. 💪</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_3.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>میشل الیسون</h3>
+<span>پشتیبانی گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>✅ شرکت اکو از گواهینامه‌های بین‌المللی و معتبر نظیر گوگل، Microsoft و ... برخوردار است. این گواهینامه‌ها تأییدیهٔ تخصص و کیفیت بالای شرکت اکو در اجرای کارسیو و بوت استرپ سایت به معنای وجود توانایی و دانش فنی اصولی در این زمینه است</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_1.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>کارل اندرسون</h3>
+<span>مهندس فنی گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>🌟 دریافت گواهینامه‌های بین‌المللی مثل گوگل و Microsoft برای شرکت اکو نه تنها نشان‌دهندهٔ رعایت استانداردهای بین‌المللی است، بلکه به مشتریان اعتماد و اطمینان بیشتری در ارائه خدمات کارسیو و بوت استرپ سایت توسط این شرکت می‌دهد</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_2.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>درو وود</h3>
+<span>کارمند سئو گوگل</span>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="testimonial-v2">
+<blockquote>
+<p>🚀 وجود این گواهینامه‌های ارزشمند، موجب می‌شود تا شرکت اکو در جهت رشد و سودآوری بیشتر، تلاش کند کیفیت خدمات خود را به خدمات بین‌المللی و معتبری مانند گوگل و Microsoft نزدیکتر کند و رضایت بیشتری را برای مشتریان خود فراهم سازد. 💪</p>
+</blockquote>
+<div class="author d-flex">
+<div class="author-pic">
+<img src="images/person_3.jpg" alt="Image" class="img-fluid">
+</div>
+<div class="author-name">
+<h3>میشل الیسون</h3>
+<span>پشتیبانی گوگل</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="site-footer">
+<div class="container">
+<div class="row mb-5">
+<div class="col-md-6 col-lg-4">
+<div class="widget">
+<h3 class="heading">درباره اکو</h3>
+<p>🌟 شرکت اکو، یک شرکت نوپا در حوزهٔ بوت استرپ و رسپانسیو سایت است که در سال 2021 تأسیس شده است. با تمرکز بر ارائه خدمات با کیفیت و پیشرو در زمینهٔ طراحی و توسعهٔ وب‌سایت‌های بوت استرپ و رسپانسیو، اکو به سرعت در عرصهٔ فعالیت خود شناخته شده است. 💪</p>
+</div>
+<div class="widget">
+<ul class="list-unstyled social">
+<li><a href="#"><span class="icon-twitter"></span></a></li>
+<li><a href="#"><span class="icon-instagram"></span></a></li>
+<li><a href="#"><span class="icon-facebook"></span></a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-6 col-lg-2 pl-lg-5">
+<div class="widget">
+<h3 class="heading">صفحات</h3>
+<ul class="links list-unstyled">
+<li><a href="#">بلاگ</a></li>
+<li><a href="#">درباره</a></li>
+<li><a href="#">مخاطب</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-6 col-lg-2">
+<div class="widget">
+<h3 class="heading">منابع</h3>
+<ul class="links list-unstyled">
+<li><a href="#">بلاگ</a></li>
+<li><a href="#">درباره</a></li>
+<li><a href="#">مخاطب</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-6 col-lg-4">
+<div class="widget">
+<h3 class="heading">مخاطب</h3>
+<ul class="list-unstyled quick-info links">
+<li class="email"><a href="#">info@Cololib</a></li>
+<li class="phone"><a href="#">+1 222 212 3819</a></li>
+<li class="address"><a href="#">خیابان ریموث 43 بالتموئر، لندن
+
+3910</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 text-center">
+<p>تمامی حق چاپ و کپی<script>سند.نوشتن(new Date().getFullYear());</script> توسط اکو محفوظ است <i class="icon-heart text-danger" aria-hidden="true"></i> حقوق این قالب <a href="https://colorlib.com" target="_blank" rel="nofollow noopener"> با</a></p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="overlayer"></div>
+<div class="loader">
+<div class="spinner-border text-primary" role="status">
+<span class="visually-hidden">Loading...</span>
+</div>
+</div>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/tiny-slider.js"></script>
+<script src="js/aos.js"></script>
+<script src="js/navbar.js"></script>
+<script src="js/counter.js"></script>
+<script src="js/custom.js"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-23581568-13');
+	</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"7fd3660c5a173a66","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2023.8.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
